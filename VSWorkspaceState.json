@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\controllers",
+    "\\handlers",
+    "\\models",
+    "\\public",
+    "\\public\\css",
+    "\\routes",
+    "\\views"
+  ],
+  "SelectedNode": "\\views\\account.pug",
+  "PreviewInSolutionExplorer": false
+}
